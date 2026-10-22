@@ -1,6 +1,0 @@
-= add_date_formats_with_day_names
-
-Redmine plugin. Adds following date formats with day names to settings:
-
-- %a., %d.%m.%Y
-- %A, %d.%m.%Y

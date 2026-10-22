@@ -1,4 +1,4 @@
-module AddDateFormatsWithDayNames
+module AddDateFormatsWithWeekDays
   def self.included(base)
     base.class_eval do
       def date_format_setting_options(locale)
